@@ -126,7 +126,7 @@ if __name__ == "__main__":
         # message.bar_chart(np.random.randn(30, 3))
     st.markdown(
          """
-    _Where there is a will, there is a way._ 🎈
+    _Where there is a will, there is a way._ 🎈i
 
     ### Official Website
     - Communication University of China [Beijing](http://www.cuc.edu.cn/)
